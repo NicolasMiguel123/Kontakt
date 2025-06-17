@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|c:\\users\\nicolas.mssilva1\\source\\repos\\kontakt\\kontakt\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\model\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\telainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\model\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\kontakt\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F273360C-8446-4082-AD76-71CAA6FADBFA}|Kontakt\\Kontakt.csproj|solutionrelative:kontakt\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Contato.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Model\\Contato.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Contato.cs",
+              "RelativeToolTip": "Kontakt\\Model\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:14:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Form1.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Form1.cs",
+              "RelativeToolTip": "Kontakt\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:17:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Usuario.cs",
+              "RelativeToolTip": "Kontakt\\Model\\Usuario.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T20:04:49.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Banco.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Model\\Banco.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Model\\Banco.cs",
+              "RelativeToolTip": "Kontakt\\Model\\Banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T19:52:10.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\TelaInicial.cs",
+              "RelativeDocumentMoniker": "Kontakt\\TelaInicial.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\TelaInicial.cs",
+              "RelativeToolTip": "Kontakt\\TelaInicial.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:35:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaInicial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\TelaInicial.cs",
+              "RelativeDocumentMoniker": "Kontakt\\TelaInicial.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\TelaInicial.cs [Design]",
+              "RelativeToolTip": "Kontakt\\TelaInicial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:28:45.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Form1.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Form1.cs [Design]",
+              "RelativeToolTip": "Kontakt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:06:58.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Cadastrar.cs",
+              "RelativeToolTip": "Kontakt\\Cadastrar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:45:53.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "Kontakt\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\nicolas.mssilva1\\source\\repos\\Kontakt\\Kontakt\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "Kontakt\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:30:27.002Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
