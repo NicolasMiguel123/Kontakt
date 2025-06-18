@@ -45,7 +45,7 @@ namespace Kontakt.Model
 
             // Retornar a quantidade de linhas inseridas
             return linhasAfetadas;
-        }
+        }   
 
         public DataTable ListarTudo()
         {

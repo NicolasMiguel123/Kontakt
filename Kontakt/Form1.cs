@@ -18,7 +18,7 @@ namespace Kontakt
         }
 
         private void btnEntrar_Click(object sender, EventArgs e)
-        {
+        {   
             // Instanciar um objeto do tipo usuario:
             Model.Usuario usuario = new Model.Usuario();  
             // Verificar se os campos estão vazios
